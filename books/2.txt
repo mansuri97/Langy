@@ -1,0 +1,21 @@
+2
+The Very Hungry Caterpillar
+Eric Carle
+Weekdays, Numbers, Food
+Easy
+This story follows the life cycle of a caterpillar as it starts by coming out of its egg, all the way to becoming a butterfly. It teaches the days of the week and counting up to five.
+caterpillar,hungry,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday,two,three,four,five,food,apple,pears,plums,strawberries,oranges,chocolate,cake,cheese,salami,lollipop,cherry,pie,sausage,cupcake,watermelon,leaf,small,big,butterfly
+chenille, faim, lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche, deux, trois, quatre, cinq, nourriture, pomme, poires, prunes, fraises, oranges, chocolat, gâteau, fromage, salami, sucette, cerise, tarte, saucisse, cupcake, melon d'eau, feuille, petit, grand, papillon
+In the light of the moon a little egg lay on a leaf.
+One Sunday morning the warm sun came up and - pop! - out of the egg came a tiny and very hungry Caterpillar.
+He started to look for some food.
+On Monday he ate through one apple. But he was still hungry.
+On Tuesday he ate through two pears, but he was still hungry.
+On Wednesday he ate through three plums, but he was still hungry.
+On Thursday he ate through four strawberries, but he was still hungry.
+On Friday he ate through five oranges, but he was still hungry.
+On Saturday he ate through one piece of chocolate cake, one ice cream cone, one pickle, one slice of Swiss cheese, one slice of salami, one lollipop, one piece of cherry pie, one sausage, one cupcake, and one slice of watermelon. That night he had a stomach ache!
+The very hungry Caterpillar then ate through one green leaf. He started to feel better.
+Now, the caterpillar was no longer small. He was a big, fat, caterpillar.
+He built a small house, called a cocoon around himself. He stayed inside for more than two weeks. Then he nibbled a small hole in the cocoon, pushed his way out and...
+A beautiful butterfly!
